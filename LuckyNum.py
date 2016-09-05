@@ -15,6 +15,5 @@ class Solution(object):
 
 if __name__ =="__main__":
     k = input()
-    # print k
     s=Solution()
     s.fx(k)
